@@ -9,7 +9,7 @@
 <div> 
 
 
-<h1 align="center">Heyya, I'm Ruby</h1>
+<h1 align="center">Aloha, I'm Ruby</h1>
 <h5 align="center">Principal SWE - Yahoo Inc. US' 24 | Senior SWE - Robinhood US' 23 | AWS 2017-23 | NetApp - 2013-15</h5>
 
 <ul align= "center" style="background-color:DodgerBlue;">
