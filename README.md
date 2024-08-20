@@ -32,19 +32,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">Heyya, I'm Ruby (she/her)</h1>
 <h5 align="center">Principal SWE - Yahoo Inc. US' 24 | Senior SWE - Robinhood US' 23 | AWS 2017-23 | NetApp - 2013-15</h5>
-<h6 align= "center" style="background-color:DodgerBlue;"> I’m currently working as a Principal SWE at Yahoo Holdings Inc. in the identity, security & privacy space. I’m keen to work on Full-Stack Web & Mobile Development projects. I have hands on experience in programming languages Typescript, Javascript, Python & Java. I have built multiple projects using AWS, Security platforms, Elasticsearch, DynamoDB, Data lake, Financial services, AdTech - Google Tag Manager. I have solved over 100 problems in various coding platforms like Leetcode, neetcode.io and Hackerrank. I’m currently learning Privacy Engineering & Distributed Systems. My skillset includes security, privacy, database management systems, object oriented programming, web development and UI/UX.  
 
-</h6>
-<h6>
-- 🔭 I’m currently working on data processing pipelines, privacy platforms, AdTech, MarTech
-- 🌱 I’m currently learning Full-Stack Web & Mobile Development, containers, GenAI on GCP
-- 👯 I’m looking to collaborate on GenAI, ML on GCP, AdTech, MarTech, Privacy Engineering, Coding interview problems, system design
-- 🤔 I’m looking for help with coding interviews, data structures & algorithms, system design
-- 💬 Ask me about interview prep, privacy, security
-- 📫 How to reach me: alligatorenterprisesinc.1992@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love monkeys
-</h6>
+<ul align= "center" style="background-color:DodgerBlue;">
+<li> 🔭 I’m currently working on data processing pipelines, privacy platforms, AdTech, MarTech </li>
+<li> 🌱 I’m currently learning Full-Stack Web & Mobile Development, containers, GenAI on GCP </li>
+<li> 👯 I’m looking to collaborate on GenAI, ML on GCP, AdTech, MarTech, Privacy Engineering, Coding interview problems, system design </li>
+<li> 🤔 I’m looking for help with coding interviews, data structures & algorithms, system design </li>
+<li> 💬 Ask me about interview prep, privacy, security </li>
+<li> 📫 How to reach me: alligatorenterprisesinc.1992@gmail.com </li>
+<li> 😄 Pronouns: she/her </li>
+<li> ⚡ Fun fact: I love monkeys </li>
+</ul>
 
 
 ## Coding Profiles:
