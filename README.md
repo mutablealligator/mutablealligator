@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://github.com/mutablealligator" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <a href="https://github.com/rubyrose-alexis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
  <a href="https://www.linkedin.com/in/ruby-rose" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  <a href="https://substack.com/@turtlewisdom" target="_blank"><img alt="Substack" src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
@@ -10,15 +10,15 @@
 
 
 <h1 align="center">Aloha, I'm Ruby</h1>
-<h5 align="center">Principal SWE - Yahoo Inc. US' 24 | Senior SWE - Robinhood US' 23 | AWS 2017-23 | NetApp - 2013-15</h5>
+<h5 align="center">Software engineer - Google | Principal SWE - Yahoo US' 24 | Senior SWE - Robinhood US' 23 | AWS 2017-23 | NetApp - 2013-15</h5>
 
 <ul align= "center" style="background-color:DodgerBlue;">
-<li> 🔭 I’m currently working on data processing pipelines, privacy platforms, AdTech, MarTech </li>
+<li> 🔭 I’m currently working on GCP Databases focussed on data migrations, data cloud, replication, MySQL and AI </li>
 <li> 🌱 I’m currently learning Full-Stack Web & Mobile Development, containers, GenAI on GCP </li>
 <li> 👯 I’m looking to collaborate on GenAI, ML on GCP, AdTech, MarTech, Privacy Engineering, Coding interview problems, system design </li>
 <li> 🤔 I’m looking for help with coding interviews, data structures & algorithms, system design </li>
 <li> 💬 Ask me about interview prep, privacy, security </li>
-<li> 📫 How to reach me: alligatorenterprisesinc.1992@gmail.com </li>
+<li> 📫 How to reach me: rubyrose.sanfran@gmail.com </li>
 <li> 😄 Pronouns: she/her </li>
 <li> ⚡ Fun fact: I love monkeys </li>
 </ul>
